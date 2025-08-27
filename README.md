@@ -117,12 +117,11 @@ I'm a Computer Science graduate from the University of British Columbia and the 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SukhdeepSingh1612&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukhdeepSingh1612&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SukhdeepSingh1612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SukhdeepSingh1612&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukhdeepSingh1612&theme=algolia" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SukhdeepSingh1612&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -162,14 +161,3 @@ I'm a Computer Science graduate from the University of British Columbia and the 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Founder+%26+Lead+AI+Engineer;Multi-Agent+Systems+Expert;Building+Real-time+AI+Platforms;CS+Graduate+%40+UBC;Open+to+Collaborate!" alt="Typing SVG" />
 </div>
-
-<!-- 
-📝 TO-DO for customization:
-- [ ] Add your banner image URL
-- [ ] Update LinkedIn profile URL
-- [ ] Add your portfolio/website URL
-- [ ] Update email address
-- [ ] Add specific repository links
-- [ ] Customize the "Currently Learning" section
-- [ ] Add any specific blog or publication links
--->
