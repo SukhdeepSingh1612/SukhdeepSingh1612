@@ -8,12 +8,12 @@
 
 I'm a Computer Science graduate from the University of British Columbia and the **Founder & Lead AI Engineer** at **Visexa AI**, where I'm building a revolutionary multi-tool AI platform. With professional experience at Vitrana and KiwiTech, I specialize in creating scalable AI systems that solve real-world problems.
 
-- 🚀 **Founder & Lead AI Engineer** at **Visexa AI** - Building next-gen AI assistant platform
-- 🎯 Engineered **real-time voice calling** with **<800ms latency** using Twilio integration
-- 🧠 Expert in **Multi-Agent Systems**, **LLM Integration**, and **RAG Architecture**
-- 💡 Built AI systems serving **50K+ active users** and achieving **92% accuracy** in document classification
-- 🌐 Specialized in **cloud-native infrastructure** (AWS/GCP) for thousands of concurrent users
-- 📍 Vancouver, Canada
+- 🚀 **Founder & Lead AI Engineer** at **Visexa AI** - Building next-gen AI assistant platform  
+- 🎯 Engineered **real-time voice calling** with **<800ms latency** using Twilio integration  
+- 🧠 Expert in **Multi-Agent Systems**, **LLM Integration**, and **RAG Architecture**  
+- 💡 Built AI systems serving **50K+ active users** and achieving **92% accuracy** in document classification  
+- 🌐 Specialized in **cloud-native infrastructure** (AWS/GCP) for thousands of concurrent users  
+- 📍 Vancouver, Canada  
 
 ---
 
@@ -64,82 +64,87 @@ I'm a Computer Science graduate from the University of British Columbia and the 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
+---
+
 ## 🏆 Featured Projects
 
 ### 🚀 [Visexa AI - Multi-Tool AI Platform](https://visexa.com)
 **Founder & Lead AI Engineer** | `Python` `OpenAI GPT-5` `Twilio` `AWS/GCP` `Docker`
-- Built from ground up: unified LLM-powered search, custom knowledge bases, real-time web access
-- **Real-time voice calling** integration with **<800ms latency**
-- **Multi-modal AI capabilities** (text, voice, image understanding)
+- Built from ground up: unified LLM-powered search, custom knowledge bases, real-time web access  
+- **Real-time voice calling** integration with **<800ms latency**  
+- **Multi-modal AI capabilities** (text, voice, image understanding)  
 - Cloud-native infrastructure supporting **thousands of concurrent users**
 
 ### 🤖 [AutoStart AI - Startup Automation Agent](https://github.com/SukhdeepSingh1612/AutoStart-AI)
 **LLM-Powered Multi-Agent Platform** | `Python` `LangChain` `OpenAI` `REST APIs`
-- **Autonomous startup workflow automation** (market research, lead generation, customer support)
-- Integrated with **Gmail, Slack, Trello, Google Search APIs**
-- **Multi-step task planning** without manual intervention
-- Advanced agent orchestration and task delegation
+- **Autonomous startup workflow automation** (market research, lead generation, customer support)  
+- Integrated with **Gmail, Slack, Trello, Google Search APIs**  
+- **Multi-step task planning** without manual intervention  
+- Advanced agent orchestration and task delegation  
 
 ### 🎓 [Visexa Tutor - Multimodal AI Tutor](https://github.com/SukhdeepSingh1612/Visexa-Tutor)
 **Real-Time Interactive Learning** | `Python` `OpenAI` `Whisper` `OpenCV` `WebRTC`
-- **Speech recognition + Computer vision + LLM reasoning**
-- Live camera input processing for visual explanations
-- Interactive diagrams and personalized feedback
-- Real-time multimodal AI interaction
+- **Speech recognition + Computer vision + LLM reasoning**  
+- Live camera input processing for visual explanations  
+- Interactive diagrams and personalized feedback  
+- Real-time multimodal AI interaction  
 
 ### 🔍 [Deep Research Agent](https://github.com/SukhdeepSingh1612/Deep-Research-Agent)
 **AI-Powered Research Assistant** | `Python` `LangChain` `Multi-Agent System`
-- Multi-agent system for comprehensive research tasks
-- Advanced RAG implementation with intelligent source evaluation
-- Automated report generation and fact verification
+- Multi-agent system for comprehensive research tasks  
+- Advanced RAG implementation with intelligent source evaluation  
+- Automated report generation and fact verification  
 
 ### 💼 [Document Classification System @ KiwiTech](https://github.com/SukhdeepSingh1612/AI-Document-Classifier)
 **Enterprise NLP Solution** | `Python` `Computer Vision` `NLP` `React.js`
-- **92% accuracy** in automated document classification
-- Reduced manual review effort by **60%**
-- Serving **50K+ active users** on client platforms
-- Scalable React.js and Node.js architecture
+- **92% accuracy** in automated document classification  
+- Reduced manual review effort by **60%**  
+- Serving **50K+ active users** on client platforms  
+- Scalable React.js and Node.js architecture  
+
+---
 
 ## 📈 Currently Learning
+- 🧠 **Advanced Multi-Agent Orchestration** and autonomous task planning  
+- 🔗 **Multi-Modal AI Integration** (GPT-5, Vision, Speech synthesis)  
+- 🚀 **Real-time AI Systems** optimization and latency reduction  
+- 🌐 **Scalable Cloud Architecture** for enterprise AI deployment  
+- 📱 **WebRTC** and **MCP Protocol** for next-gen AI interfaces  
 
-- 🧠 **Advanced Multi-Agent Orchestration** and autonomous task planning
-- 🔗 **Multi-Modal AI Integration** (GPT-5, Vision, Speech synthesis)
-- 🚀 **Real-time AI Systems** optimization and latency reduction
-- 🌐 **Scalable Cloud Architecture** for enterprise AI deployment
-- 📱 **WebRTC** and **MCP Protocol** for next-gen AI interfaces
+---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SukhdeepSingh1612&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 📊 GitHub Stats
+---
 
+## 📊 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SukhdeepSingh1612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SukhdeepSingh1612&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SukhdeepSingh1612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukhdeepSingh1612&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SukhdeepSingh1612&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=SukhdeepSingh1612&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph Snake"/>
 </p>
 
-## 🤝 Connect With Me
+---
 
+## 🤝 Connect With Me
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sukhdeepsingh1612)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhdeepsingh1612@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SukhdeepSingh1612)
-[![Portfolio](https://img.shields.io/badge/Visexa_AI-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://visexa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sukhdeepsingh1612)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhdeepsingh1612@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SukhdeepSingh1612)  
+[![Portfolio](https://img.shields.io/badge/Visexa_AI-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://visexa.com)  
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917986563348)
 
 </div>
