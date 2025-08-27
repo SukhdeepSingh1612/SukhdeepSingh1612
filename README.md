@@ -129,9 +129,9 @@ I'm a Computer Science graduate from the University of British Columbia and the 
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SukhdeepSingh1612/SukhdeepSingh1612/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph Snake"/>
+</p>
 
 ## 🤝 Connect With Me
 
